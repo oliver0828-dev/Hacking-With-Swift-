@@ -1,0 +1,2 @@
+## My thoughts
+This project must be one of the most demanding and challenging projects. I couldn’t get it through properly, so I watched all the solution videos in HWS+. I didn’t know how the Word Scramble game worked, and there was too much stuff to assimilate into my C++ head. I thought Swift and SwiftUI were easier than C++, but I have to say nothing is easy. I hope to learn more about SwiftUI and Swift as I go through different courses. 
